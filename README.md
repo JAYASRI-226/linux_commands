@@ -149,12 +149,6 @@ It sends packets to a target server and measures the response time, helping to v
 
 ---
 
-## ✅ Summary
-- `>` overwrite, `>>` append  
-- `kill -9` force stop process  
-- `rm` remove files, `rmdir` empty folders  
-- `netstat -tulpn` check ports & processes  
-- `ping` test network connectivity  
 
 ## 📌 SECTION 4 – Scenario Based Questions
 
